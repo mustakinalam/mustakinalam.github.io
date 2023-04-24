@@ -1,0 +1,107 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: MD. Mustakin Alam
+    - name: Date of Birth
+      value: 19th August 2000
+    - name: Languages
+      value: Bengali (Native proficiency), English (Professional working proficiency), French (Elementary proficiency), Hindi (Elementary proficiency)
+    - name: Email
+      value: md.mustakin.alam@g.bracu.ac.bd,
+             md.abesh1@gmail.com
+    - name: Cell no.
+      value: "+8801685505242"
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Artificial Intelligence 
+      #items:
+        #- Description 1.
+        #- Description 2. 
+    - title: Machine Learning
+    - title: Deep Learning
+    - title: Natural Language Processing
+    - title: Federated Learning
+      
+- title: Technical Skills
+  type: list
+  contents:
+    - <b>Languages:</b> Python, Java, C, PHP, Bash, MySQL, HTML/CSS, LaTeX, Markdown
+    - <b>Developer Tools:</b> Visual Studio Code, PyCharm, IntelliJ, MS Office, Google Suite, Overleaf, Google Colab, Jupyter Notebook
+    - <b>Frameworks & Libraries:</b> Laravel, Pandas, NumPy, Matplotlib, Seaborn, Tensorflow, Scikit-learn
+
+- title: Extracurricular activities & Competitions
+  type: time_table
+  contents:
+    - title: Senior Executive of Human Resources
+      institution: Robotics Club of BRAC University - ROBU
+      year: Sept 2019 – Oct 2021
+      
+    - title: Assistant Director of Human Resources
+      institution: BRACU Entrepreneurship Development Forum (EDF)
+      year: Oct 2019 – Aug 2020
+      description:
+        - <a href="https://drive.google.com/file/d/1dKX_VSs2kzvfpqAqs_nLPOYilC-wp5Zd/view?usp=sharing">Credential</a>
+    - title: Event Volunteer
+      institution: NRB Jobs Presents BRAC University National Career Fair 2019
+      year: June 2019
+      description:
+        - <a href="https://drive.google.com/file/d/1b8-J6nZTffO-DxDLcMgtVSC04QSfVFhb/view?usp=sharing">Credential</a>
+    - title: Olympiad Participant
+      institution: National Environment Olympiad, Art, & Poster Competition 2017
+      year: Sept 2019 – Oct 2021
+      description:
+        - <a href="https://drive.google.com/file/d/1X71OqvOepyErosu_5ehYmTt0JICycbjF/view?usp=sharing">Credential</a>
+    - title: Competition Participant
+      institution: Robi Datathon 2.0 
+      year: June 2022
+      description:
+        - <a href="https://www.kaggle.com/competitions/robi-datathon-2-pre-assessment/overview">Competition</a>
+      
+- title: Courses
+  type: time_table
+  contents:
+    - title: Programming for Everybody (Getting Started with Python)
+      institution: Coursera
+      year: 2020
+      description:
+        - <a href="https://drive.google.com/file/d/1NvQkeQcRafFsqiVCPoLNXfntS2gZwe_G/view?usp=sharing">Credential</a> 
+    - title: Python Data Structures
+      institution: Coursera
+      year: 2020
+      description:
+        - <a href="https://drive.google.com/file/d/1e0GPVJvbWSgbP0zWekBpIQfJ5N_d8Xve/view?usp=sharing">Credential</a>
+    - title: Introduction to HTML5
+      institution: Coursera
+      year: 2020
+      description:
+        - <a href="https://drive.google.com/file/d/1qws4ZjJCiMVUc8vVtgcqYJKvBZMLNqWt/view?usp=sharing">Credential</a>
+    - title: Introduction to Natural Language Processing in Python
+      institution: Datacamp
+      year: 2023
+      description:
+        - <a href="https://drive.google.com/file/d/1KWKorFxqTQdKmR5E8v8Nvd9j1cyGuxpt/view?usp=sharing">Credential</a>
+    - title: Feature Engineering for NLP in Python
+      institution: Datacamp
+      year: 2023
+      description:
+        - <a href="https://drive.google.com/file/d/1b8lLWI9KucEFz94o2kGCSWsrw5E7sam2/view?usp=sharing">Credential</a>
+
+- title: Presentations & Talks
+  type: time_table
+  contents:
+    - title: Research Presentation at SoCPaR 2022 Conference
+      institution: 14th Soft Computing and Pattern Recognition (SoCPaR’22)
+      year: 2022
+      description:
+        - <a href="https://drive.google.com/file/d/12uOKcDJOqGQzezerA5y4Ircd08AAQiAR/view?usp=sharing">Credential</a>
+
+- title: Other Interests
+  type: list
+  contents:
+    - <b>Competitive Video Games:</b> Dota 2, Tom Clancy's Rainbow Six Siege
+    - <b>Favorite Football Club:</b> Manchester United
+    - <b>Preferable Movie and Series Genre:</b> Thriller, Mystery
+
