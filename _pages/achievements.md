@@ -26,4 +26,3 @@ Dhaka, Bangladesh <br>
 Dhaka, Bangladesh <br>
 <i>May 2023</i><br>
 > Awarded to candidates whose CGPA is 3.80 or higher.
-</ul>
