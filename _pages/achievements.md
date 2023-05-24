@@ -17,7 +17,7 @@ Dhaka, Bangladesh <br>
 <h5>BRAC University</h5>
 Dhaka, Bangladesh <br>
 <i>May 2023</i><br>
-> Got placed on VC's List for 9 semesters as recognition of achieving a GPA of 3.90-4.00 on those particular semesters.
+> Got placed on VC's List for 9 semesters as recognition of achieving a GPA of 3.90-4.00 on those particular semesters. <br>
 > Got placed on Dean's List for 1 semester as recognition of achieving a GPA of 3.70-3.89 on that particular semester.
 
 <p>
