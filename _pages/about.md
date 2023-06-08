@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Machine Learning Engineer, <a href='https://polyfins.com/'>Polyfins Technology Inc</a>
+subtitle: Machine Learning Engineer at <a href='https://polyfins.com/'>Polyfins Technology Inc</a>
 
 profile:
   align: right
