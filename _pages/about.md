@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Machine Learning Engineer, <a href='https://polyfins.com/'>Polyfins Technology Inc</a>
 
 profile:
   align: right
