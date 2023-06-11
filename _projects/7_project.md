@@ -13,6 +13,9 @@ In this project we built a whole network for a given scenario. There were many c
 - Using both DHCP and Manually assigned IP addresses
 - Setting up Email Server, Web server
 
+The other contributor is, <br>
+<a href="https://www.linkedin.com/in/kazi-md-al-wakil/">Kazi Md. Al Wakil </a> <br>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/29.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
