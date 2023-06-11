@@ -1,13 +1,17 @@
 ---
 layout: page
 title: Computer Networks Project
-description: An online bookstore with laravel framework
+description: A project for a simulated computer network on Cisco Packet Tracer
 img: assets/img/29.jpg
 importance: 4
 category: Academic
 ---
 
-It is a project for a simulated computer network on Cisco Packet Tracer. This project was made for the completion of the course Computer Networks (CSE421). This is a full-fledged simulated network built from scratch.
+In this project we built a whole network for a given scenario. There were many constraints which we had to take into consideration. The main objective was to create a system where we can set up a network by which we can communicate with the whole network. Constraints that we had to take into consideration:
+- Shortest path to each of the node
+- Creating primary, secondary routes and default route
+- Using both DHCP and Manually assigned IP addresses
+- Setting up Email Server, Web server
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
