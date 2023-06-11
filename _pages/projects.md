@@ -5,7 +5,7 @@ permalink: /projects/
 description: The projects I have worked on so far can be explored in this section
 nav: true
 nav_order: 4
-display_categories: [Academic, Fun] #,Work
+display_categories: [Academic, Personal] #,Work
 horizontal: false
 ---
 

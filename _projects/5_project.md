@@ -4,7 +4,7 @@ title: Cybot
 description: A discord bot
 img: assets/img/21.jpg
 importance: 3
-category: Fun
+category: Personal
 ---
 
 Cybot is a Discord bot that plays music for you fetching from youtube. It also returns some predefined texts. It is built using python, uptime robot, and discord developer portal.
