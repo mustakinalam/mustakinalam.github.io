@@ -8,6 +8,12 @@ nav_order: 3
 ---
 
 <ul>
+<li><h3><b>Machine Learning Engineer</b></h3></li>
+<h5>mPower Social Enterprises Ltd.</h5>
+Dhaka, Bangladesh <br>
+<i>June 2023 - Present</i><br>
+
+<p>
 <li><h3><b>Undergraduate Teaching Assistant</b></h3></li>
 <h5>BRAC University</h5>
 Dhaka, Bangladesh <br>
