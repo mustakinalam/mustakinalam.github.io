@@ -13,6 +13,8 @@ nav_order: 3
 Dhaka, Bangladesh <br>
 <i>June 2023 - Present</i><br>
 
+> As a Machine Learning Engineer, I build custom machine learning models as a solution to address real-life problems. <br>
+
 <p>
 <li><h3><b>Undergraduate Teaching Assistant</b></h3></li>
 <h5>BRAC University</h5>
