@@ -9,7 +9,7 @@ nav_order: 5
 <h2><b>Journals</b></h2>
 <ul>
 <li><h5><b>Federated Ensemble-Learning for Transport Mode Detection in Vehicular Edge Network</b></h5></li>
-<h5><a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">Future Generation Computer Systems (FGCS)</a> <b>Q1, IF: 7.307</b></h5>
+<h5><a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">Future Generation Computer Systems (FGCS)</a> <b>Q1, IF: 7.50</b></h5>
 <i>2023</i><br>
 <p style="color: green">Published</p>
 <b>Authors:</b> <b>MD. Mustakin Alam</b>, Tanjim Ahmed, Meraz Hossain, Mehedi Hasan Emo, Md. Kausar Islam Bidhan, Md Tanzim Reza, Md. Golam Rabiul Alam, Mohammad Mehedi Hassan, Francesco Pupo, Giancarlo Fortino.<br>
