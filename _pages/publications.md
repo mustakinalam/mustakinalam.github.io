@@ -12,7 +12,7 @@ nav_order: 5
 <h5><a href="https://www.sciencedirect.com/journal/future-generation-computer-systems">Future Generation Computer Systems (FGCS)</a> <b>Q1, IF: 7.50</b></h5>
 <i>2023</i><br>
 <p style="color: green">Published</p>
-<b>Authors:</b> <b>MD. Mustakin Alam</b>, Tanjim Ahmed, Meraz Hossain, Mehedi Hasan Emo, Md. Kausar Islam Bidhan, Md Tanzim Reza, Md. Golam Rabiul Alam, Mohammad Mehedi Hassan, Francesco Pupo, Giancarlo Fortino.<br>
+<b>Authors:</b> <b>Md. Mustakin Alam</b>, Tanjim Ahmed, Meraz Hossain, Mehedi Hasan Emo, Md. Kausar Islam Bidhan, Md Tanzim Reza, Md. Golam Rabiul Alam, Mohammad Mehedi Hassan, Francesco Pupo, Giancarlo Fortino.<br>
 </ul>
 <h2><b>Conferences</b></h2>
 <ul>
@@ -44,7 +44,7 @@ nav_order: 5
 <h5><a href="https://ieee-ccwc.org/">2023 IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC)</a></h5>
 <i>2023</i><br>
 <p style="color: green">Published</p>
-<b>Authors:</b> Md Nasimuzzaman, Ahmed Nur Merag, Sumya Afroj, <b>MD. Mustakin Alam</b>, Md Humaion Kabir Mehedi, Annajiat Alim Rasel<br>
+<b>Authors:</b> Md Nasimuzzaman, Ahmed Nur Merag, Sumya Afroj, <b>Md. Mustakin Alam</b>, Md Humaion Kabir Mehedi, Annajiat Alim Rasel<br>
 <p>
 <li><h5><b><a href="https://ieeexplore.ieee.org/abstract/document/10054654">Human Speech Emotion Recognition Using CNN</a></b></h5></li>
 <h5><a href="https://iccit.org.bd/2022/">2022 25th International Conference on Computer and Information Technology (ICCIT)</a></h5>
