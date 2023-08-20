@@ -28,6 +28,12 @@ nav_order: 5
 <p style="color: green">Published</p>
 <b>Authors:</b> Nafisa Nawer, Md Shakiful Islam Khan, <b>MD. Mustakin Alam</b>, Md Humaion Kabir Mehedi, Annajiat Alim Rasel<br>
 <p>
+<li><h5><b><a href="https://ieeexplore.ieee.org/abstract/document/10191392">SweetCoat-2D: Two-Dimensional Bangla Spelling Correction and Suggestion Using Levenshtein Edit Distance and String Matching Algorithm</a></b></h5></li>
+<h5><a href="https://2023.ijcnn.org/">2023 International Joint Conference on Neural Networks (IJCNN)</a></h5>
+<i>2022</i><br>
+<p style="color: green">Published</p>
+<b>Authors:</b> Md Mahadi Hasan, David Dew Mallick, Towhid Khan, <b>MD. Mustakin Alam</b>, Md Humaion Kabir Mehedi, Annajiat Alim Rasel<br>
+<p>
 <li><h5><b><a href="https://ieeexplore.ieee.org/abstract/document/10099157">Ensemble of Gated Recurrent Unit and Convolutional Neural Network for Sarcasm Detection in Bangla</a></b></h5></li>
 <h5><a href="https://ieee-ccwc.org/">2023 IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC)</a></h5>
 <i>2023</i><br>
