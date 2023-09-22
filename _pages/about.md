@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Machine Learning Engineer at <a href='https://www.mpower-social.com/'>mPower Social Enterprises Ltd.</a>
+subtitle: Machine Learning Engineer at <a href='https://www.mpower-social.com/'>mPower Social Enterprises Ltd.</a> <br> Contractual Lecturer at <a href='https://www.bracu.ac.bd'>BRAC University</a>
 
 profile:
   align: right
