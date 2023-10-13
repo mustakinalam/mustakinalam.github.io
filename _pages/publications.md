@@ -41,7 +41,7 @@ nav_order: 5
 <b>Authors:</b> Niloy Farhan, Ishrat Tasnim Awishi, Md Humaion Kabir Mehedi, <b>Md. Mustakin Alam</b>, Annajiat Alim Rasel<br>
 <p>
 <li><h5><b><a href="https://dl.acm.org/doi/abs/10.1145/3605423.3605430">Optimization of Deep CNN-based Bangla Sign Language Recognition using XGBoost classifier</a></b></h5></li>
-<h5><a href="https://dl.acm.org/doi/proceedings/10.1145/3605423">ICCTA '23: Proceedings of the 2023 9th International Conference on Computer Technology Applications</a></h5>
+<h5><a href="https://dl.acm.org/doi/proceedings/10.1145/3605423">ICCTA '23: 2023 9th International Conference on Computer Technology Applications</a></h5>
 <i>2022</i><br>
 <p style="color: green">Published</p>
 <b>Authors:</b> Raima Islam, Mashequr Rahman Khan, Md Zunayedul Islam, Md. Mustakin Alam, Md Sabbir Hossain, Md Humaion Kabir Mehedi, Annajiat Alim Rasel<br>
@@ -53,7 +53,7 @@ nav_order: 5
 <b>Authors:</b> Md Nasimuzzaman, Ahmed Nur Merag, Sumya Afroj, <b>Md. Mustakin Alam</b>, Md Humaion Kabir Mehedi, Annajiat Alim Rasel<br>
 <p>
 <li><h5><b><a href="https://dl.acm.org/doi/abs/10.1145/3605423.3605429">Early Autism Disorder Detection Through Visualizing Eye-Tracking Patterns Using Compact Convolutional Transformers</a></b></h5></li>
-<h5><a href="https://dl.acm.org/doi/proceedings/10.1145/3605423">ICCTA '23: Proceedings of the 2023 9th International Conference on Computer Technology Applications</a></h5>
+<h5><a href="https://dl.acm.org/doi/proceedings/10.1145/3605423">ICCTA '23: 2023 9th International Conference on Computer Technology Applications</a></h5>
 <i>2022</i><br>
 <p style="color: green">Published</p>
 <b>Authors:</b> Md Humaion Kabir Mehedi, Irfana Arafin, Khan Md Hasib, Farhin Rahman, Md. Mustakin Alam, Rufaida Tasin, Annajiat Alim Rasel<br>
