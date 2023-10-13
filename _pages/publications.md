@@ -30,7 +30,7 @@ nav_order: 5
 <p>
 <li><h5><b><a href="https://ieeexplore.ieee.org/abstract/document/10191392">SweetCoat-2D: Two-Dimensional Bangla Spelling Correction and Suggestion Using Levenshtein Edit Distance and String Matching Algorithm</a></b></h5></li>
 <h5><a href="https://2023.ijcnn.org/">2023 International Joint Conference on Neural Networks (IJCNN)</a></h5>
-<i>2022</i><br>
+<i>2023</i><br>
 <p style="color: green">Published</p>
 <b>Authors:</b> Md Mahadi Hasan, David Dew Mallick, Towhid Khan, <b>Md. Mustakin Alam</b>, Md Humaion Kabir Mehedi, Annajiat Alim Rasel<br>
 <p>
@@ -42,7 +42,7 @@ nav_order: 5
 <p>
 <li><h5><b><a href="https://dl.acm.org/doi/abs/10.1145/3605423.3605430">Optimization of Deep CNN-based Bangla Sign Language Recognition using XGBoost classifier</a></b></h5></li>
 <h5><a href="https://dl.acm.org/doi/proceedings/10.1145/3605423">ICCTA '23: 2023 9th International Conference on Computer Technology Applications</a></h5>
-<i>2022</i><br>
+<i>2023</i><br>
 <p style="color: green">Published</p>
 <b>Authors:</b> Raima Islam, Mashequr Rahman Khan, Md Zunayedul Islam, Md. Mustakin Alam, Md Sabbir Hossain, Md Humaion Kabir Mehedi, Annajiat Alim Rasel<br>
 <p>
@@ -54,7 +54,7 @@ nav_order: 5
 <p>
 <li><h5><b><a href="https://dl.acm.org/doi/abs/10.1145/3605423.3605429">Early Autism Disorder Detection Through Visualizing Eye-Tracking Patterns Using Compact Convolutional Transformers</a></b></h5></li>
 <h5><a href="https://dl.acm.org/doi/proceedings/10.1145/3605423">ICCTA '23: 2023 9th International Conference on Computer Technology Applications</a></h5>
-<i>2022</i><br>
+<i>2023</i><br>
 <p style="color: green">Published</p>
 <b>Authors:</b> Md Humaion Kabir Mehedi, Irfana Arafin, Khan Md Hasib, Farhin Rahman, Md. Mustakin Alam, Rufaida Tasin, Annajiat Alim Rasel<br>
 <p>
