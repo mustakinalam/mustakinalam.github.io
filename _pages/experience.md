@@ -8,12 +8,12 @@ nav_order: 3
 ---
 
 <ul>
-<li><h3><b>Contractual Lecturer</b></h3></li>
+<li><h3><b>Lecturer (Contractual)</b></h3></li>
 <h5>BRAC University</h5>
 Dhaka, Bangladesh <br>
 <i>September 2023 - Present</i><br>
 
-> As a lecturer, I take classes of undergraduate courses and provide consultations of the corresponding courses. <br>
+> As a lecturer, I take classes of undergraduate courses, provide consultations of the corresponding courses, grade tasks, and invigilate exams. <br>
 
 
 <li><h3><b>Machine Learning Engineer</b></h3></li>
