@@ -28,7 +28,7 @@ Dhaka, Bangladesh <br>
 My works so far, <br>
 <ul>
 <li>Health and nutrition related chatbot using OpenAI's GPT3.5 Turbo Large Language Model</li>
-<li>MCQ 1uestions and answers generator using OpenAI's GPT3.5 Turbo Large Language Model</li>
+<li>MCQ questions and answers generator using OpenAI's GPT3.5 Turbo Large Language Model</li>
 <li>Pregnancy risk prediction for women in remote areas of Bangladesh utilizing antenatal pregnancy data using different Machine Learning algorithms</li>
 </ul>
 
