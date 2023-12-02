@@ -13,7 +13,7 @@ nav_order: 3
 Dhaka, Bangladesh <br>
 <i>September 2023 - Present</i><br>
 
-> As a lecturer, I take classes of undergraduate courses, provide consultations of the corresponding courses, grade tasks, and invigilate exams. <br>
+> As a lecturer, I take classes of undergraduate courses, provide consultations on the corresponding courses, grade tasks, and invigilate exams. <br>
 > Courses Taken:<br>
 CSE341: Microprocessors (Laboratory) <br>
 CSE461: Introduction to Robotics (Laboratory) <br>
@@ -24,10 +24,10 @@ CSE461: Introduction to Robotics (Laboratory) <br>
 Dhaka, Bangladesh <br>
 <i>June 2023 - Present</i><br>
 
-> As a Machine Learning Engineer, I build custom machine learning models as a solution to address real-life problems. 
-My works so far, <br>
+> As a Machine Learning Engineer, I build and implement machine learning as a solution to address real-life problems. 
+My work so far, <br>
 <ul>
-<li>Health and nutrition related chatbot using OpenAI's GPT3.5 Turbo Large Language Model</li>
+<li>Health and nutrition-related chatbot using OpenAI's GPT3.5 Turbo Large Language Model</li>
 <li>MCQ questions and answers generator using OpenAI's GPT3.5 Turbo Large Language Model</li>
 <li>Pregnancy risk prediction for women in remote areas of Bangladesh utilizing antenatal pregnancy data using different Machine Learning algorithms</li>
 </ul>
