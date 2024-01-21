@@ -15,6 +15,8 @@ Dhaka, Bangladesh <br>
 
 > As a lecturer, I take classes of undergraduate courses, provide consultations on the corresponding courses, grade tasks, and invigilate exams. <br>
 > Courses Taken:<br>
+CSE422: Artificial Intelligence (Theory) <br>
+CSE422: Artificial Intelligence (Laboratory) <br>
 CSE341: Microprocessors (Laboratory) <br>
 CSE461: Introduction to Robotics (Laboratory) <br>
 
