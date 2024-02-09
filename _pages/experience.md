@@ -32,7 +32,7 @@ My work so far, <br>
 <li>Health and nutrition-related chatbot using OpenAI's GPT3.5 Turbo Large Language Model</li>
 <li>MCQ questions and answers generator using OpenAI's GPT3.5 Turbo Large Language Model</li>
 <li>Pregnancy risk prediction for women in remote areas of Bangladesh utilizing antenatal pregnancy data using different Machine Learning algorithms</li>
-<li>Speech to Text Transcription using different variants of Whisper by OpenAI</li>
+<li>Bengali speech to text transcription through fine-tuning different variants of Whisper by OpenAI</li>
 </ul>
 
 <p>
