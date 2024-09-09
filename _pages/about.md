@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Machine Learning Engineer at <a href='https://www.mpower-social.com/'>mPower Social Enterprises Ltd.</a> <br> Adjunct Lecturer at <a href='https://www.bracu.ac.bd'>BRAC University</a>
+subtitle: PhD Student and Graduate Teaching Assistant at <a href='https://louisiana.edu/'>University of Louisiana at Lafayette</a>
 
 profile:
   align: right
@@ -14,7 +14,7 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a passionate lecturer, researcher, and machine learning engineer with expertise in Machine Learning, Deep Learning, Artificial Intelligence, Federated Learning, and Natural Language Processing. I have extensive experience working on diverse projects that involve developing cutting-edge approaches to solve complex problems in these areas. Currently, I am working as a machine learning engineer, where I apply my expertise to develop and deploy machine learning models for practical applications. Currently, I am also serving as a contractual lecturer at BRAC University.
+I am a passionate lecturer, researcher, and machine learning engineer with expertise in Machine Learning, Deep Learning, Artificial Intelligence, Federated Learning, and Natural Language Processing. I have extensive experience working on diverse projects that involve developing cutting-edge approaches to solve complex problems in these areas. I worked as a machine learning engineer, where I apply my expertise to develop and deploy machine learning models for practical applications. I also served as an adjunct lecturer at BRAC University. Currently, I am pursuing my PhD in Computer Science and serving as a graduate teaching assistant at the University of Louisiana at Lafayette.
 
 Throughout my time in the field of Machine Learning, I have successfully contributed to the development of custom models and algorithms, significantly improving the performance of existing systems. I am constantly exploring new applications of these technologies to tackle real-world problems and drive innovation. My research interests encompass not only advancing the field of machine learning but also leveraging interdisciplinary knowledge to address broader challenges.
 

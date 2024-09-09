@@ -7,6 +7,11 @@ nav: true
 nav_order: 2
 ---
 <ul>
+<li><h3><b>Doctor of Philosophy in Computer Science</b></h3></li>
+<h5>University of Louisiana at Lafayette</h5>
+Lafayette, Louisiana, USA <br>
+<i>August 2024 - Present</i><br>
+
 <li><h3><b>Bachelor of Science in Computer Science and Engineering</b></h3></li>
 <h5>BRAC University</h5>
 Dhaka, Bangladesh <br>

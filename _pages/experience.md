@@ -8,10 +8,18 @@ nav_order: 3
 ---
 
 <ul>
-<li><h3><b>Lecturer (Contractual)</b></h3></li>
+<li><h3><b>Graduate Teaching Asssistant</b></h3></li>
+<h5>University of Louisiana at Lafayette</h5>
+Lafayette, Louisiana, USA <br>
+<i>August 2024 - Present</i><br>
+
+> As a Graduate Teaching Asssistant, I provide consultations on the assigned courses and grade tasks <br>
+
+
+<li><h3><b>Adjunct Lecturer</b></h3></li>
 <h5>BRAC University</h5>
 Dhaka, Bangladesh <br>
-<i>September 2023 - Present</i><br>
+<i>September 2023 - July 2024</i><br>
 
 > As a lecturer, I take classes of undergraduate courses, provide consultations on the corresponding courses, grade tasks, and invigilate exams. <br>
 > Courses Taken:<br>
@@ -24,7 +32,7 @@ CSE461: Introduction to Robotics (Laboratory) <br>
 <li><h3><b>Machine Learning Engineer</b></h3></li>
 <h5>mPower Social Enterprises Ltd.</h5>
 Dhaka, Bangladesh <br>
-<i>June 2023 - Present</i><br>
+<i>June 2023 - July 2024</i><br>
 
 > As a Machine Learning Engineer, I build and implement machine learning as a solution to address real-life problems. 
 My work so far, <br>
