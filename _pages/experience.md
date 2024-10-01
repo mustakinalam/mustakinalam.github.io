@@ -8,12 +8,12 @@ nav_order: 3
 ---
 
 <ul>
-<li><h3><b>Graduate Teaching Asssistant</b></h3></li>
+<li><h3><b>Graduate Teaching Assistant</b></h3></li>
 <h5>University of Louisiana at Lafayette</h5>
 Lafayette, Louisiana, USA <br>
 <i>August 2024 - Present</i><br>
 
-> As a Graduate Teaching Asssistant, I provide consultations on the assigned courses and grade tasks <br>
+> As a Graduate Teaching Assistant, I provide consultations on the assigned courses and grade tasks <br>
 
 
 <li><h3><b>Adjunct Lecturer</b></h3></li>
