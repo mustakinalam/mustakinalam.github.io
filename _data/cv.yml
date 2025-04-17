@@ -3,15 +3,12 @@
   contents:
     - name: Full Name
       value: Md. Mustakin Alam
-    - name: Date of Birth
-      value: 19th August 2000
     - name: Languages
       value: Bengali (Native proficiency), English (Professional working proficiency), French (Elementary proficiency), Hindi (Elementary proficiency)
     - name: Email
-      value: mustakin.alam267@gmail.com,     
+      value: mustakin.alam267@gmail.com, md-mustakin.alam1@louisiana.edu,     
              md.mustakin.alam@g.bracu.ac.bd
-    - name: Cell no.
-      value: "+8801685505242"
+    
 
 - title: Research Interests
   type: nested_list
