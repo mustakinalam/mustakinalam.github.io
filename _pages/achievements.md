@@ -6,6 +6,13 @@ nav_order: 6
 #dropdown: true
 ---
 <ul>
+<li><h3><b>Academic Excellence Award</b></h3></li>
+<h5>University of Louisiana at Lafayette</h5>
+Dhaka, Bangladesh <br>
+<i>Lafayette, Louisiana, United States</i><br>
+> Awarded to candidates whose CGPA is 4.00.
+
+<p>
 <li><h3><b>Merit Scholarship Based on BRACU Academic Results</b></h3></li>
 <h5>BRAC University</h5>
 Dhaka, Bangladesh <br>
