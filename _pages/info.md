@@ -4,6 +4,6 @@ permalink: /info/
 title: Info
 description: Download my entire Résumé by clicking the pdf icon on the top right corner of this section
 nav: true
-nav_order: 7
+nav_order: 6
 cv_pdf: MD. Mustakin Alam's_Resume.pdf
 ---

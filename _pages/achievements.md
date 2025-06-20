@@ -2,7 +2,7 @@
 layout: page
 title: Achievements
 nav: true
-nav_order: 6
+nav_order: 5
 #dropdown: true
 ---
 <ul>

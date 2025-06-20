@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: The research papers I have worked on can explored in this section
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 <h2><b>Journals</b></h2>
 <ul>
