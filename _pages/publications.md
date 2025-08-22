@@ -19,7 +19,7 @@ nav_order: 4
 <li><h5><b>The Birth of Vision Language</b></h5></li>
 <h5><a href="https://acmmm2025.org/">33rd ACM
 International Conference on Multimedia (ACMMM25)</a></h5>
-<i>2023</i><br>
+<i>2025</i><br>
 <p style="color: yellow">Accepted</p>
 <b>Authors:</b> Aminul Islam, <b>Md. Mustakin Alam,</b> Shaker Islam<br>
 <p>
