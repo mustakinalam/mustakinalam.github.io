@@ -16,11 +16,10 @@ nav_order: 4
 </ul>
 <h2><b>Conferences</b></h2>
 <ul>
-<li><h5><b>The Birth of Vision Language</b></h5></li>
-<h5><a href="https://acmmm2025.org/">33rd ACM
-International Conference on Multimedia (ACMMM25)</a></h5>
+<li><h5><b><a href="https://dl.acm.org/doi/abs/10.1145/3746027.3758162">The Birth of Vision Language</a></b></h5></li>
+<h5><a href="https://acmmm2025.org/">33rd ACM International Conference on Multimedia (ACMMM25)</a></h5>
 <i>2025</i><br>
-<p style="color: yellow">Accepted</p>
+<p style="color: green">Published</p>
 <b>Authors:</b> Aminul Islam, <b>Md. Mustakin Alam,</b> Shaker Islam<br>
 <p>
 <li><h5><b><a href="https://link.springer.com/chapter/10.1007/978-3-031-27524-1_62">Bidirectional LSTM and NLP Based Sentiment Analysis of Tweets</a></b></h5></li>
